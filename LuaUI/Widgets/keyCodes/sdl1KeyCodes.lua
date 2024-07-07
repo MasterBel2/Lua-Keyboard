@@ -774,13 +774,13 @@ return {
         type = keyCodeTypes.operation
     },
     [0x113] = {
-        name = "Left",
-        compressedName = "Lf",
+        name = "Right",
+        compressedName = "Rt",
         type = keyCodeTypes.operation
     },
     [0x114] = {
-        name = "Right",
-        compressedName = "Rt",
+        name = "Left",
+        compressedName = "Lf",
         type = keyCodeTypes.operation
     },
     [0x115] = {
